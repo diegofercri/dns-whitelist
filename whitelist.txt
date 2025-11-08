@@ -1,0 +1,69 @@
+# === WHITELIST DE DOMINIOS PERMITIDOS ===
+# Formato: un dominio por línea
+# Actualizado: 2025-11-09
+
+# --- MI DOMINIO ---
+fercri.es
+*.fercri.es
+
+# --- EMAIL MARKETING Y TRANSACCIONAL ---
+# Keap (Infusionsoft) - Email marketing
+keap-link005.com
+keap-link007.com
+keap-link014.com
+
+# Brevo (Sendinblue) - Email marketing
+sp1-brevo.net
+
+# ActiveCampaign - Email marketing
+activehosted.com
+*.activehosted.com
+acemlna.com
+acemlnb.com
+
+# Transactional email services
+transactional-mail-d.com
+*.transactional-mail-d.com
+
+# --- TRACKING Y ANALYTICS ---
+# DigiDip - URL shortener/tracking
+digidip.net
+
+# Sentry - Error tracking
+sentry.io
+*.sentry.io
+
+# --- COMUNICACIONES ---
+# Discord
+discord.com
+*.discord.com
+
+# --- ALMACENAMIENTO ---
+# MEGA - Cloud storage
+mega.nz
+*.mega.nz
+
+# --- DEPORTES Y ENTRETENIMIENTO ---
+# F1 Dashboard
+f1-dash.com
+*.f1-dash.com
+
+# Buddyfit - Fitness platform
+buddyfit.club
+buddyfit.tv
+
+# --- FINANZAS ---
+# Klarna - Pagos online
+klarna.com
+*.klarna.com
+
+# Santander - Banco
+santander.com
+*.santander.com
+
+# Club Inversoras
+inversoras.club
+
+# --- HERRAMIENTAS ---
+# Freedium - Medium paywall bypass
+freedium.cfd
