@@ -65,8 +65,8 @@ santander.com
 inversoras.club
 
 # --- OTROS ---
-ifconfig.me
-
-# --- HERRAMIENTAS ---
 # Freedium - Medium paywall bypass
 freedium.cfd
+
+# IfConfig - IP identifier
+ifconfig.me
