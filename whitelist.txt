@@ -9,17 +9,23 @@ fercri.es
 # --- EMAIL MARKETING Y TRANSACCIONAL ---
 # Keap (Infusionsoft) - Email marketing
 keap-link005.com
+*.keap-link005.com
 keap-link007.com
+*.keap-link007.com
 keap-link014.com
+*.keap-link014.com
 
 # Brevo (Sendinblue) - Email marketing
 sp1-brevo.net
+*.sp1-brevo.net
 
 # ActiveCampaign - Email marketing
 activehosted.com
 *.activehosted.com
 acemlna.com
+*.acemlna.com
 acemlnb.com
+*.acemlnb.com
 
 # Transactional email services
 transactional-mail-d.com
@@ -28,6 +34,7 @@ transactional-mail-d.com
 # --- TRACKING Y ANALYTICS ---
 # DigiDip - URL shortener/tracking
 digidip.net
+*.digidip.net
 
 # Sentry - Error tracking
 sentry.io
@@ -50,7 +57,9 @@ f1-dash.com
 
 # Buddyfit - Fitness platform
 buddyfit.club
+*.buddyfit.club
 buddyfit.tv
+*.buddyfit.tv
 
 # --- FINANZAS ---
 # Klarna - Pagos online
@@ -63,10 +72,13 @@ santander.com
 
 # Club Inversoras
 inversoras.club
+*.inversoras.club
 
 # --- OTROS ---
 # Freedium - Medium paywall bypass
 freedium.cfd
+*.freedium.cfd
 
 # IfConfig - IP identifier
 ifconfig.me
+*.ifconfig.me
