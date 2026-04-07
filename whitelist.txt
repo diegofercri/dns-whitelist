@@ -78,6 +78,8 @@ inversoras.club
 # Freedium - Medium paywall bypass
 freedium.cfd
 *.freedium.cfd
+annas-archive.gl
+*.annas-archive.gl
 
 # IfConfig - IP identifier
 ifconfig.me
