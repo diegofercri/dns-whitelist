@@ -10,6 +10,8 @@ fercri.es
 # Keap (Infusionsoft) - Email marketing
 keap-link005.com
 *.keap-link005.com
+keap-link006.com
+*.keap-link006.com
 keap-link007.com
 *.keap-link007.com
 keap-link014.com
