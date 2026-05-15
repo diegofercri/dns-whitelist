@@ -77,6 +77,10 @@ inversoras.club
 *.inversoras.club
 
 # --- OTROS ---
+# Annas Archive - Free Books
+annas-archive.gl
+*.annas-archive.gl
+
 # Freedium - Medium paywall bypass
 freedium.cfd
 *.freedium.cfd
