@@ -1,6 +1,6 @@
 # === WHITELIST DE DOMINIOS PERMITIDOS ===
 # Formato: un dominio por línea
-# Actualizado: 2025-11-09
+# Actualizado: 2026-11-22
 
 # --- MI DOMINIO ---
 fercri.es
@@ -46,6 +46,15 @@ sentry.io
 # Discord
 discord.com
 *.discord.com
+
+# --- REDES SOCIALES ---
+# Facebook - App móvil (API, chat y web)
+# Sin *.facebook.com ni graph.facebook.com: dejarían pasar trackers
+b-graph.facebook.com
+z-m-graph.facebook.com
+graph-fallback.facebook.com
+mqtt-mini.facebook.com
+web.facebook.com
 
 # --- ALMACENAMIENTO ---
 # MEGA - Cloud storage
