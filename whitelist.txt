@@ -1,6 +1,6 @@
 # === WHITELIST DE DOMINIOS PERMITIDOS ===
 # Formato: un dominio por línea
-# Actualizado: 2026-11-22
+# Actualizado: 2026-11-23
 
 # --- MI DOMINIO ---
 fercri.es
@@ -49,7 +49,9 @@ discord.com
 
 # --- REDES SOCIALES ---
 # Facebook - App móvil (API, chat y web)
-# Sin *.facebook.com ni graph.facebook.com: dejarían pasar trackers
+# graph.facebook.com también lo usan trackers de otras apps, pero la app lo necesita
+# Sin *.facebook.com: dejaría pasar an.facebook.com y pixel.facebook.com (trackers)
+graph.facebook.com
 b-graph.facebook.com
 z-m-graph.facebook.com
 graph-fallback.facebook.com
